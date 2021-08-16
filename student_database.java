@@ -1,3 +1,4 @@
+// Student database with the following details as variables: USN, Name, Branch, Phone. 
 import java.util.Scanner;
 public class student_database {
     String usn;
